@@ -1,0 +1,12 @@
+Package: pubOutput
+Type: Package
+Title: pubOutput
+Version: 0.1.1
+Author: Livia Oushiro
+Maintainer: Livia Oushiro <oushiro@unicamp.br>
+Description: Package to create html output for my github webpage.
+    Creates article, bookchapter and presentation outputs. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
